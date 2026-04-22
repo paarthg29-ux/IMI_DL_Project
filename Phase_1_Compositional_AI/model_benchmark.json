@@ -1,0 +1,30 @@
+[
+  {
+    "model": "Linear Regression",
+    "mae_density": 0.6491,
+    "mae_bulk": 23.3229,
+    "r2_density": 0.9367,
+    "r2_bulk": 0.79
+  },
+  {
+    "model": "SVR",
+    "mae_density": 0.5195,
+    "mae_bulk": 31.3667,
+    "r2_density": 0.9469,
+    "r2_bulk": 0.5543
+  },
+  {
+    "model": "Gradient Boosting",
+    "mae_density": 1.7174,
+    "mae_bulk": 40.6069,
+    "r2_density": 0.6329,
+    "r2_bulk": 0.5036
+  },
+  {
+    "model": "Random Forest",
+    "mae_density": 0.8668,
+    "mae_bulk": 18.4858,
+    "r2_density": 0.874,
+    "r2_bulk": 0.8195
+  }
+]

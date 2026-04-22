@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+# Data
+*.cif
+*.csv
+
+# Models
+*.pt
+*.pth
+*.joblib
+
+# Images
+*.png
+
+# Python
+__pycache__/
+=======
+__pycache__/
+*.pyc
+*.pth
+*.joblib
+.env
+>>>>>>> 776bb8d511b19da8cc7e1d54df7c7773c042fd96

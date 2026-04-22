@@ -1,0 +1,9 @@
+{
+  "mae_density": 0.8668,
+  "mae_bulk": 18.4858,
+  "r2_density": 0.874,
+  "r2_bulk": 0.8195,
+  "train_size": 8795,
+  "test_size": 2199,
+  "n_features": 88
+}
